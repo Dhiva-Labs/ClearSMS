@@ -4,6 +4,8 @@ A clean, ad-free SMS app for Android. Samsung Messages-style interface with
 Microsoft SMS Organizer-style smart inbox — all classification runs on-device,
 nothing leaves the phone.
 
+**Documentation:** step-by-step guides at [learn.dhivalabs.com](https://learn.dhivalabs.com/apps/clearsms/): [install](https://learn.dhivalabs.com/apps/clearsms/install) · [beginner guide](https://learn.dhivalabs.com/apps/clearsms/getting-started) · [troubleshooting](https://learn.dhivalabs.com/apps/clearsms/faq).
+
 ## Features
 
 - **Smart inbox** — messages are automatically sorted into four tabs:
